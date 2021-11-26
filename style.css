@@ -152,7 +152,7 @@ main {
   outline: none;
 }
 
-.dice {
+ .dice {
   position: absolute;
   left: 50%;
   top: 16.5rem;
@@ -172,4 +172,12 @@ main {
 
 .hidden {
   display: none;
+}
+
+#dice-1 {
+  top: 120px;
+}
+
+#dice-2 {
+  top: 250px;
 }
