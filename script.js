@@ -1,4 +1,4 @@
-"use script";
+"use strict";
 
 //Elements selected
 const player0l = document.querySelector('.player--0')
