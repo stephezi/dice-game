@@ -1,6 +1,6 @@
 "use strict";
 
-//Elements selected
+//Elements selected here
 const player0l = document.querySelector('.player--0')
 const player1l = document.querySelector('.player--1')
 const score0l = document.getElementById('score--0');
